@@ -55,3 +55,6 @@ elif k < m:
 elif k == m:
     print('k == m')
 
+Amacımız bir Date sınıfı yazmak.
+__init__ içerisinde tarihi 3 değişik biöimde alabiliyor. 
+def_total_days(self) gün sayısını tutuyor.
